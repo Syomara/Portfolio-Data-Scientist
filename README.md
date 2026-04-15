@@ -1,20 +1,24 @@
-# Portfolio - Syomara Bazzini - Data Scientist
+# Portfolio - Syomara Bazzini | Data Scientist
 
-Bienvenida/o a mi portfolio. 
+Bienvenida/o a mi portfolio.
+Soy Syomara, Ingeniera en Alimentos con experiencia en la industria alimentaria, especializada en productividad y optimización de procesos. Actualmente enfocada en aplicar Data Science y Machine Learning para análisis de datos y mejora continua.
 
-Aquí encontrarás algunos proyectos y ejemplos de trabajos que hice en el área de análisis de datos, encontraras ejemplos en:
-- PowerBi
-- Visualizaciones de datos en Phyton
-- Análisis uni y multivariados
-- Aprendizaje supervisado
-- EDA
-- Machine Learning
-- Análisis de datos no tabulares.
+Aquí encontrarás algunos proyectos y ejemplos de trabajos que hice en el área de análisis de datos, por ejemplo:
+- 📊 Power BI y visualización de datos
+- 🐍 Python para análisis y visualización
+- 🔍 Análisis uni y multivariado
+- 🤖 Machine Learning supervisado
+- 🧹 Exploratory Data Analysis (EDA)
+- 📂 Tratamiento de datos no tabulares
 
-## Secciones
-1. [About Me](./about)
-2. [PowerBi](./pbi-dashboard)
-3. [Visualizaciones](./visualizaciones)
-4. [Machine Learning](./ml-1)
-5. [Tratamiento de datos no tabulares](./dntabulares)
+
+## 📂 Secciones
+1. [About Me](./about) - Mi perfil y contacto
+2. [PowerBi](./pbi-dashboard) - Visualizaciones en PowerBi 
+3. [Visualizaciones](./visualizaciones) - Visualizaciones en Phyton
+4. [Machine Learning](./ml-1) - Modelos de Machine Learning
+5. [Tratamiento de datos no tabulares](./dntabulares) - Análisis de datos no tabulares
    
+## 📬 Contacto
+- LinkedIn: https://www.linkedin.com/in/syomara-bazzini-macchi-045558103
+- Email: syomarabazz@hotmail.com
