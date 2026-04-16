@@ -1,6 +1,7 @@
 # Portfolio - Syomara Bazzini | Data Scientist
 
-Bienvenida/o a mi portfolio.
+Bienvenida/o a mi portfolio!
+
 Soy Syomara, Ingeniera en Alimentos con experiencia en la industria alimentaria, especializada en productividad y optimización de procesos. Actualmente enfocada en aplicar Data Science y Machine Learning para análisis de datos y mejora continua.
 
 Aquí encontrarás algunos proyectos y ejemplos de trabajos que hice en el área de análisis de datos, por ejemplo:
