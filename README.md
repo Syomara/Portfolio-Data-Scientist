@@ -16,9 +16,12 @@ Aquí encontrarás algunos proyectos y ejemplos de trabajos que hice en el área
 1. [About Me](./about) - Mi perfil y contacto
 2. [PowerBi](./pbi-dashboard) - Visualizaciones en PowerBi 
 3. [Visualizaciones](./visualizaciones) - Visualizaciones en Phyton
-4. [Machine Learning](./ml-1) - Modelos de Machine Learning
-5. [Tratamiento de datos no tabulares](./dntabulares) - Análisis de datos no tabulares
+4. [Machine Learning](./machine-learning) - Modelos de Machine Learning
+5. [Tratamiento de datos no tabulares](./data-no-tabulares) - Análisis de datos no tabulares
+6. [Certificaciones](./achivements) - Certificaciones obtenidas
    
 ## 📬 Contacto
 - LinkedIn: https://www.linkedin.com/in/syomara-bazzini-macchi-045558103
 - Email: syomarabazz@hotmail.com
+
+[⬅ Volver al Portfolio principal](../README.md)
