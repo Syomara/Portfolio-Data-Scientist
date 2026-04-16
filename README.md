@@ -23,5 +23,3 @@ Aquí encontrarás algunos proyectos y ejemplos de trabajos que hice en el área
 ## 📬 Contacto
 - LinkedIn: https://www.linkedin.com/in/syomara-bazzini-macchi-045558103
 - Email: syomarabazz@hotmail.com
-
-[⬅ Volver al Portfolio principal](../README.md)
