@@ -2,5 +2,4 @@
 
 En esta carpeta se detallan las certificaciones obtenidas que además se detallan en mi CV.
 
-**Título de Ingeniera Alimentaria**
-(./achivements/Titulo_UY-DO-46188222_INGENIERO_ALIMENTARIO.pdf)
+[Título de Ingeniera Alimentaria] (./achivements/Titulo_UY-DO-46188222_INGENIERO_ALIMENTARIO.pdf)
