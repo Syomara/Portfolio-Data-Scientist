@@ -19,3 +19,5 @@ En esta carpeta se detallan las certificaciones obtenidas que además se detalla
 - [Excel Avanzado](./Excel_Avanzado.png)
 
 - [Liderazgo y Gestión de Equipos](./Liderazgo_y_Gestion_de_Equipos.png)
+
+[⬅ Volver al Portfolio principal](../README.md)
