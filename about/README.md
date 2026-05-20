@@ -9,3 +9,5 @@ Actualmente me enfoco en el área de **Data Science**, profundizando en machine 
 ## 📬 Contacto
 - LinkedIn: [Syomara Bazzini](https://www.linkedin.com/in/syomara-bazzini-macchi-045558103)  
 - Email: syomarabazz@hotmail.com
+
+[⬅ Volver al Portfolio principal](../README.md)
