@@ -19,7 +19,8 @@ Aquí encontrarás algunos proyectos y ejemplos de trabajos que hice en el área
 3. [Visualizaciones](./visualizaciones) - Visualizaciones en Phyton
 4. [Machine Learning](./machine-learning) - Modelos de Machine Learning
 5. [Tratamiento de datos no tabulares](./data-no-tabulares) - Análisis de datos no tabulares
-6. [Certificaciones](./achivements) - Certificaciones obtenidas
+6. [SQL](./sql) - Trabajos en SQL
+7. [Certificaciones](./achivements) - Certificaciones obtenidas
    
 ## 📬 Contacto
 - LinkedIn: https://www.linkedin.com/in/syomara-bazzini-macchi-045558103
