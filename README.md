@@ -24,5 +24,5 @@ Aquí encontrarás algunos proyectos y ejemplos de trabajos que hice en el área
 8. [Certificaciones](./achivements) - Certificaciones obtenidas
    
 ## 📬 Contacto
-- LinkedIn: https://www.linkedin.com/in/syomara-bazzini-macchi-045558103
+- LinkedIn: https://www.linkedin.com/in/syomara-bazzini-macchi
 - Email: syomarabazz@hotmail.com
